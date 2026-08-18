@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is the devOps class
 This is the git class
+=======
+This is under feature branch.
+>>>>>>> f499210 (commit underfeature)
